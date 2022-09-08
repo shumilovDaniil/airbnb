@@ -1,0 +1,503 @@
+{
+  "homes": [
+    {
+      "id": 43449093,
+      "distance": 1972,
+      "date": {
+        "start": "11.08.2022",
+        "end": "17.08.2022"
+      },
+      "url": "https://www.airbnb.com/rooms/43449093",
+      "deeplink": "https://www.airbnb.com/rooms/43449093?check_in=2022-05-16&check_out=2022-05-17&adults=1",
+      "position": 1,
+      "name": "Breathtaking Mountain views in cozy Birdbox",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Gaular",
+      "country": "Norway",
+      "neighborhood": "Châtelet - Les Halles - Beaubourg",
+      "images": [
+        "https://a0.muscache.com/im/pictures/6721fc25-afe0-4f35-b181-212ec8ddc186.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/7a7f8828-57cc-4fa5-b7ff-ae06bf8409a9.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/4568c35b-bb8c-4367-b828-8f17bcea5934.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/23a60113-a16d-4cd6-bf5a-a2f352eb4f4e.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/daa9323f-e8be-4c3d-9068-f6331ad5316a.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/1d22ab4c-641d-47d6-89fd-7c0418274ce7.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/1f42ceb1-25b6-434e-9f4d-b8b331b478c6.jpg?im_w=240",
+      "isSuperhost": true,
+      "rareFind": true,
+      "lat": 48.86339,
+      "lng": 2.35232,
+      "persons": 1,
+      "reviewsCount": 140,
+      "rating": 4.99,
+      "type": "Entire rental unit",
+      "userId": 271527319,
+      "address": "Gaular, Sogn og Fjordane, Norway",
+      "amenityIds": [
+        35, 611, 4, 103, 40, 104, 42, 11, 44, 45, 77, 46, 85, 86, 663, 30
+      ],
+      "previewAmenities": ["Wifi", "Heating"],
+      "cancelPolicy": "CANCEL_MODERATE",
+      "price": {
+        "night": 544,
+        "currency": "USD",
+        "total": 2039,
+        "priceItems": [
+          {
+            "title": "349 x 5 nights",
+            "amount": 1744
+          },
+          {
+            "title": "Service fee",
+            "amount": 295
+          }
+        ]
+      }
+    },
+    {
+      "id": 654453423,
+      "distance": 572,
+      "date": {
+        "start": "13.08.2022",
+        "end": "18.08.2022"
+      },
+      "url": "https://www.airbnb.com/rooms/43449093",
+      "deeplink": "https://www.airbnb.com/rooms/43449093?check_in=2022-05-16&check_out=2022-05-17&adults=1",
+      "position": 1,
+      "name": "Luxury suite overlooking the Wadden Sea, Harlingen",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Harlingen",
+      "country": "Netherlands",
+      "neighborhood": "Châtelet - Les Halles - Beaubourg",
+      "images": [
+        "https://a0.muscache.com/im/pictures/be42241a-5346-4745-a2ef-8cf7576f88b8.jpg?im_w=960",
+        "https://a0.muscache.com/im/pictures/7a7f8828-57cc-4fa5-b7ff-ae06bf8409a9.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/4568c35b-bb8c-4367-b828-8f17bcea5934.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/23a60113-a16d-4cd6-bf5a-a2f352eb4f4e.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/daa9323f-e8be-4c3d-9068-f6331ad5316a.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/1d22ab4c-641d-47d6-89fd-7c0418274ce7.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/1f42ceb1-25b6-434e-9f4d-b8b331b478c6.jpg?im_w=240",
+      "isSuperhost": true,
+      "rareFind": true,
+      "lat": 48.86339,
+      "lng": 2.35232,
+      "persons": 1,
+      "reviewsCount": 140,
+      "rating": 4.99,
+      "type": "Entire rental unit",
+      "userId": 271527319,
+      "address": "Gaular, Sogn og Fjordane, Norway",
+      "amenityIds": [
+        35, 611, 4, 103, 40, 104, 42, 11, 44, 45, 77, 46, 85, 86, 663, 30
+      ],
+      "previewAmenities": ["Wifi", "Heating"],
+      "cancelPolicy": "CANCEL_MODERATE",
+      "price": {
+        "night": 324,
+        "currency": "USD",
+        "total": 2039,
+        "priceItems": [
+          {
+            "title": "349 x 5 nights",
+            "amount": 1744
+          },
+          {
+            "title": "Service fee",
+            "amount": 295
+          }
+        ]
+      }
+    },
+    {
+      "id": 12312345,
+      "distance": 1972,
+      "date": {
+        "start": "11.08.2022",
+        "end": "17.08.2022"
+      },
+      "url": "https://www.airbnb.com/rooms/43449093",
+      "deeplink": "https://www.airbnb.com/rooms/43449093?check_in=2022-05-16&check_out=2022-05-17&adults=1",
+      "position": 1,
+      "name": "Breathtaking Mountain views in cozy Birdbox",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Gaular",
+      "country": "Norway",
+      "neighborhood": "Châtelet - Les Halles - Beaubourg",
+      "images": [
+        "https://a0.muscache.com/im/pictures/6721fc25-afe0-4f35-b181-212ec8ddc186.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/7a7f8828-57cc-4fa5-b7ff-ae06bf8409a9.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/4568c35b-bb8c-4367-b828-8f17bcea5934.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/23a60113-a16d-4cd6-bf5a-a2f352eb4f4e.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/daa9323f-e8be-4c3d-9068-f6331ad5316a.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/1d22ab4c-641d-47d6-89fd-7c0418274ce7.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/1f42ceb1-25b6-434e-9f4d-b8b331b478c6.jpg?im_w=240",
+      "isSuperhost": true,
+      "rareFind": true,
+      "lat": 48.86339,
+      "lng": 2.35232,
+      "persons": 1,
+      "reviewsCount": 140,
+      "rating": 4.99,
+      "type": "Entire rental unit",
+      "userId": 271527319,
+      "address": "Gaular, Sogn og Fjordane, Norway",
+      "amenityIds": [
+        35, 611, 4, 103, 40, 104, 42, 11, 44, 45, 77, 46, 85, 86, 663, 30
+      ],
+      "previewAmenities": ["Wifi", "Heating"],
+      "cancelPolicy": "CANCEL_MODERATE",
+      "price": {
+        "night": 544,
+        "currency": "USD",
+        "total": 2039,
+        "priceItems": [
+          {
+            "title": "349 x 5 nights",
+            "amount": 1744
+          },
+          {
+            "title": "Service fee",
+            "amount": 295
+          }
+        ]
+      }
+    },
+    {
+      "id": 76546543,
+      "distance": 1972,
+      "date": {
+        "start": "11.08.2022",
+        "end": "17.08.2022"
+      },
+      "url": "https://www.airbnb.com/rooms/43449093",
+      "deeplink": "https://www.airbnb.com/rooms/43449093?check_in=2022-05-16&check_out=2022-05-17&adults=1",
+      "position": 1,
+      "name": "Breathtaking Mountain views in cozy Birdbox",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Gaular",
+      "country": "Norway",
+      "neighborhood": "Châtelet - Les Halles - Beaubourg",
+      "images": [
+        "https://a0.muscache.com/im/pictures/6721fc25-afe0-4f35-b181-212ec8ddc186.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/7a7f8828-57cc-4fa5-b7ff-ae06bf8409a9.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/4568c35b-bb8c-4367-b828-8f17bcea5934.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/23a60113-a16d-4cd6-bf5a-a2f352eb4f4e.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/daa9323f-e8be-4c3d-9068-f6331ad5316a.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/1d22ab4c-641d-47d6-89fd-7c0418274ce7.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/1f42ceb1-25b6-434e-9f4d-b8b331b478c6.jpg?im_w=240",
+      "isSuperhost": true,
+      "rareFind": true,
+      "lat": 48.86339,
+      "lng": 2.35232,
+      "persons": 1,
+      "reviewsCount": 140,
+      "rating": 4.99,
+      "type": "Entire rental unit",
+      "userId": 271527319,
+      "address": "Gaular, Sogn og Fjordane, Norway",
+      "amenityIds": [
+        35, 611, 4, 103, 40, 104, 42, 11, 44, 45, 77, 46, 85, 86, 663, 30
+      ],
+      "previewAmenities": ["Wifi", "Heating"],
+      "cancelPolicy": "CANCEL_MODERATE",
+      "price": {
+        "night": 544,
+        "currency": "USD",
+        "total": 2039,
+        "priceItems": [
+          {
+            "title": "349 x 5 nights",
+            "amount": 1744
+          },
+          {
+            "title": "Service fee",
+            "amount": 295
+          }
+        ]
+      }
+    },
+    {
+      "id": 23432322,
+      "distance": 1972,
+      "date": {
+        "start": "11.08.2022",
+        "end": "17.08.2022"
+      },
+      "url": "https://www.airbnb.com/rooms/43449093",
+      "deeplink": "https://www.airbnb.com/rooms/43449093?check_in=2022-05-16&check_out=2022-05-17&adults=1",
+      "position": 1,
+      "name": "Breathtaking Mountain views in cozy Birdbox",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Gaular",
+      "country": "Norway",
+      "neighborhood": "Châtelet - Les Halles - Beaubourg",
+      "images": [
+        "https://a0.muscache.com/im/pictures/6721fc25-afe0-4f35-b181-212ec8ddc186.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/7a7f8828-57cc-4fa5-b7ff-ae06bf8409a9.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/4568c35b-bb8c-4367-b828-8f17bcea5934.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/23a60113-a16d-4cd6-bf5a-a2f352eb4f4e.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/daa9323f-e8be-4c3d-9068-f6331ad5316a.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/1d22ab4c-641d-47d6-89fd-7c0418274ce7.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/1f42ceb1-25b6-434e-9f4d-b8b331b478c6.jpg?im_w=240",
+      "isSuperhost": true,
+      "rareFind": true,
+      "lat": 48.86339,
+      "lng": 2.35232,
+      "persons": 1,
+      "reviewsCount": 140,
+      "rating": 4.99,
+      "type": "Entire rental unit",
+      "userId": 271527319,
+      "address": "Gaular, Sogn og Fjordane, Norway",
+      "amenityIds": [
+        35, 611, 4, 103, 40, 104, 42, 11, 44, 45, 77, 46, 85, 86, 663, 30
+      ],
+      "previewAmenities": ["Wifi", "Heating"],
+      "cancelPolicy": "CANCEL_MODERATE",
+      "price": {
+        "night": 544,
+        "currency": "USD",
+        "total": 2039,
+        "priceItems": [
+          {
+            "title": "349 x 5 nights",
+            "amount": 1744
+          },
+          {
+            "title": "Service fee",
+            "amount": 295
+          }
+        ]
+      }
+    },
+    {
+      "id": 56432345,
+      "distance": 1972,
+      "date": {
+        "start": "11.08.2022",
+        "end": "17.08.2022"
+      },
+      "url": "https://www.airbnb.com/rooms/43449093",
+      "deeplink": "https://www.airbnb.com/rooms/43449093?check_in=2022-05-16&check_out=2022-05-17&adults=1",
+      "position": 1,
+      "name": "Breathtaking Mountain views in cozy Birdbox",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Gaular",
+      "country": "Norway",
+      "neighborhood": "Châtelet - Les Halles - Beaubourg",
+      "images": [
+        "https://a0.muscache.com/im/pictures/6721fc25-afe0-4f35-b181-212ec8ddc186.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/7a7f8828-57cc-4fa5-b7ff-ae06bf8409a9.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/4568c35b-bb8c-4367-b828-8f17bcea5934.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/23a60113-a16d-4cd6-bf5a-a2f352eb4f4e.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/daa9323f-e8be-4c3d-9068-f6331ad5316a.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/1d22ab4c-641d-47d6-89fd-7c0418274ce7.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/1f42ceb1-25b6-434e-9f4d-b8b331b478c6.jpg?im_w=240",
+      "isSuperhost": true,
+      "rareFind": true,
+      "lat": 48.86339,
+      "lng": 2.35232,
+      "persons": 1,
+      "reviewsCount": 140,
+      "rating": 4.99,
+      "type": "Entire rental unit",
+      "userId": 271527319,
+      "address": "Gaular, Sogn og Fjordane, Norway",
+      "amenityIds": [
+        35, 611, 4, 103, 40, 104, 42, 11, 44, 45, 77, 46, 85, 86, 663, 30
+      ],
+      "previewAmenities": ["Wifi", "Heating"],
+      "cancelPolicy": "CANCEL_MODERATE",
+      "price": {
+        "night": 544,
+        "currency": "USD",
+        "total": 2039,
+        "priceItems": [
+          {
+            "title": "349 x 5 nights",
+            "amount": 1744
+          },
+          {
+            "title": "Service fee",
+            "amount": 295
+          }
+        ]
+      }
+    },
+    {
+      "id": 12367534,
+      "distance": 1972,
+      "date": {
+        "start": "11.08.2022",
+        "end": "17.08.2022"
+      },
+      "url": "https://www.airbnb.com/rooms/43449093",
+      "deeplink": "https://www.airbnb.com/rooms/43449093?check_in=2022-05-16&check_out=2022-05-17&adults=1",
+      "position": 1,
+      "name": "Breathtaking Mountain views in cozy Birdbox",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Gaular",
+      "country": "Norway",
+      "neighborhood": "Châtelet - Les Halles - Beaubourg",
+      "images": [
+        "https://a0.muscache.com/im/pictures/6721fc25-afe0-4f35-b181-212ec8ddc186.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/7a7f8828-57cc-4fa5-b7ff-ae06bf8409a9.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/4568c35b-bb8c-4367-b828-8f17bcea5934.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/23a60113-a16d-4cd6-bf5a-a2f352eb4f4e.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/daa9323f-e8be-4c3d-9068-f6331ad5316a.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/1d22ab4c-641d-47d6-89fd-7c0418274ce7.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/1f42ceb1-25b6-434e-9f4d-b8b331b478c6.jpg?im_w=240",
+      "isSuperhost": true,
+      "rareFind": true,
+      "lat": 48.86339,
+      "lng": 2.35232,
+      "persons": 1,
+      "reviewsCount": 140,
+      "rating": 4.99,
+      "type": "Entire rental unit",
+      "userId": 271527319,
+      "address": "Gaular, Sogn og Fjordane, Norway",
+      "amenityIds": [
+        35, 611, 4, 103, 40, 104, 42, 11, 44, 45, 77, 46, 85, 86, 663, 30
+      ],
+      "previewAmenities": ["Wifi", "Heating"],
+      "cancelPolicy": "CANCEL_MODERATE",
+      "price": {
+        "night": 544,
+        "currency": "USD",
+        "total": 2039,
+        "priceItems": [
+          {
+            "title": "349 x 5 nights",
+            "amount": 1744
+          },
+          {
+            "title": "Service fee",
+            "amount": 295
+          }
+        ]
+      }
+    },
+    {
+      "id": 67524244,
+      "distance": 1972,
+      "date": {
+        "start": "11.08.2022",
+        "end": "17.08.2022"
+      },
+      "url": "https://www.airbnb.com/rooms/43449093",
+      "deeplink": "https://www.airbnb.com/rooms/43449093?check_in=2022-05-16&check_out=2022-05-17&adults=1",
+      "position": 1,
+      "name": "Breathtaking Mountain views in cozy Birdbox",
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "city": "Gaular",
+      "country": "Norway",
+      "neighborhood": "Châtelet - Les Halles - Beaubourg",
+      "images": [
+        "https://a0.muscache.com/im/pictures/6721fc25-afe0-4f35-b181-212ec8ddc186.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/7a7f8828-57cc-4fa5-b7ff-ae06bf8409a9.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/4568c35b-bb8c-4367-b828-8f17bcea5934.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/23a60113-a16d-4cd6-bf5a-a2f352eb4f4e.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/daa9323f-e8be-4c3d-9068-f6331ad5316a.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/1d22ab4c-641d-47d6-89fd-7c0418274ce7.jpg?im_w=720"
+      ],
+      "hostThumbnail": "https://a0.muscache.com/im/pictures/user/1f42ceb1-25b6-434e-9f4d-b8b331b478c6.jpg?im_w=240",
+      "isSuperhost": true,
+      "rareFind": true,
+      "lat": 48.86339,
+      "lng": 2.35232,
+      "persons": 1,
+      "reviewsCount": 140,
+      "rating": 4.99,
+      "type": "Entire rental unit",
+      "userId": 271527319,
+      "address": "Gaular, Sogn og Fjordane, Norway",
+      "amenityIds": [
+        35, 611, 4, 103, 40, 104, 42, 11, 44, 45, 77, 46, 85, 86, 663, 30
+      ],
+      "previewAmenities": ["Wifi", "Heating"],
+      "cancelPolicy": "CANCEL_MODERATE",
+      "price": {
+        "night": 544,
+        "currency": "USD",
+        "total": 2039,
+        "priceItems": [
+          {
+            "title": "349 x 5 nights",
+            "amount": 1744
+          },
+          {
+            "title": "Service fee",
+            "amount": 295
+          }
+        ]
+      }
+    }
+  ],
+
+  "categories": [
+    {
+      "icon": "https://a0.muscache.com/pictures/c5a4f6fc-c92c-4ae8-87dd-57f1ff1b89a6.jpg",
+      "name": "OMG!"
+    },
+    {
+      "icon": "https://a0.muscache.com/pictures/c0a24c04-ce1f-490c-833f-987613930eca.jpg",
+      "name": "National parks"
+    },
+    {
+      "icon": "https://a0.muscache.com/pictures/732edad8-3ae0-49a8-a451-29a8010dcc0c.jpg",
+      "name": "Cabins"
+    },
+    {
+      "icon": "https://a0.muscache.com/pictures/c8e2ed05-c666-47b6-99fc-4cb6edcde6b4.jpg",
+      "name": "Luxe"
+    },
+    {
+      "icon": "https://a0.muscache.com/pictures/8e507f16-4943-4be9-b707-59bd38d56309.jpg",
+      "name": "Lakefront"
+    },
+    {
+      "icon": "https://a0.muscache.com/pictures/4221e293-4770-4ea8-a4fa-9972158d4004.jpg",
+      "name": "Caves"
+    },
+    {
+      "icon": "https://a0.muscache.com/pictures/c5a4f6fc-c92c-4ae8-87dd-57f1ff1b89a6.jpg",
+      "name": "Island"
+    },
+    {
+      "icon": "https://a0.muscache.com/pictures/8b44f770-7156-4c7b-b4d3-d92549c8652f.jpg",
+      "name": "Artic"
+    },
+    {
+      "icon": "https://a0.muscache.com/pictures/50861fca-582c-4bcc-89d3-857fb7ca6528.jpg",
+      "name": "Design"
+    },
+    {
+      "icon": "https://a0.muscache.com/pictures/3fb523a0-b622-4368-8142-b5e03df7549b.jpg",
+      "name": "Amazing pools"
+    }
+  ]
+}
