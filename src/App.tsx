@@ -1,18 +1,13 @@
-import React, { useEffect } from "react";
 import "./styles/reset.css";
 import "./styles/index.css";
 import Header from "./components/Header";
-import Tabs from "./components/Tabs";
-import RoomsList from "./components/HomesList";
+import Home from "./pages/Home";
 
 function App() {
   return (
     <>
       <Header />
-      <div className="container m-auto px-4">
-        <Tabs />
-        <RoomsList />
-      </div>
+      <Home />
     </>
   );
 }

@@ -1,9 +1,10 @@
-import React, { FC } from "react";
+import { FC } from "react";
 import { AiFillStar } from "react-icons/ai";
 import { MdFavoriteBorder } from "react-icons/md";
-import IHome from "../types";
+import { Link } from "react-router-dom";
+import IRoom from "../types";
 
-const Home: FC<IHome> = (props) => {
+const RoomItem: FC<IRoom> = (props) => {
   const { id, city, country, distance, images, rating, date, price } = props;
 
   return (
@@ -11,7 +12,7 @@ const Home: FC<IHome> = (props) => {
       <button className="absolute right-1 top-1 p-1">
         <MdFavoriteBorder className="text-gray-500" />
       </button>
-      <a href="">
+      <Link to={`rooms/${id}`}>
         <div>
           <img
             max-width="235px"
@@ -47,9 +48,9 @@ const Home: FC<IHome> = (props) => {
             </span>
           </div>
         </div>
-      </a>
+      </Link>
     </div>
   );
 };
 
-export default Home;
+export default RoomItem;

@@ -1,4 +1,4 @@
-export default interface IHome {
+export default interface IRoom {
   id: number;
   distance: number;
   name: string;
@@ -20,7 +20,7 @@ export default interface IHome {
   };
 }
 
-export default interface IHomePage {
+export default interface IRoomPage {
   id: number;
   distance: number;
   city: string;

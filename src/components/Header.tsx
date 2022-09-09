@@ -4,14 +4,15 @@ import { FiSearch } from "react-icons/fi";
 import { GiEarthAmerica } from "react-icons/gi";
 import { AiOutlineMenu } from "react-icons/ai";
 import userImg from "./../assets/images/user.jpg";
+import { Link } from "react-router-dom";
 
 const Header = () => {
   return (
     <header className="container flex m-auto px-4 py-4 items-center justify-between border-solid border-b-2 border-gray-200 mb-4">
       <div className="logo">
-        <a href="">
+        <Link to="/">
           <img className="w-24" src={logo} alt="" />
-        </a>
+        </Link>
       </div>
 
       <div className="list text-xs flex items-center shadow-md rounded-full px-3 p-2">
