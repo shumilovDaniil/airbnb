@@ -4,8 +4,10 @@ import Tabs from "../components/Tabs/Tabs";
 const Home = () => {
   return (
     <>
-      <Tabs />
-      <RoomsList />
+      <div className="container m-auto">
+        <Tabs />
+        <RoomsList />
+      </div>
     </>
   );
 };

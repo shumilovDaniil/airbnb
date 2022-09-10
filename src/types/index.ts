@@ -28,9 +28,13 @@ export default interface IRoomPage {
   images: string[];
   rating: number;
   address: string;
+  persons: number;
   reviewsCount: number;
   isSuperhost: boolean;
   hostThumbnail: string;
+  beds: number;
+  bathrooms: number;
+  bedrooms: number;
   date: {
     start: string;
     end: string;
