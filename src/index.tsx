@@ -3,9 +3,7 @@ import ReactDOM from "react-dom/client";
 import App from "./App";
 import { QueryClientProvider, QueryClient } from "@tanstack/react-query";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import Home from "./pages/Home";
-import RoomPage from "./pages/RoomPage";
-import Header from "./components/Header";
+import RoomPage from "./pages/RoomPage/RoomPage";
 
 const root = ReactDOM.createRoot(
   document.getElementById("root") as HTMLElement

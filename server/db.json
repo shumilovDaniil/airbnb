@@ -32,7 +32,7 @@
       "lng": 2.35232,
       "persons": 4,
       "reviewsCount": 140,
-      "rating": 4.99,
+      "rating": 4.33,
       "type": "Entire rental unit",
       "userId": 271527319,
       "address": "Gaular, Sogn og Fjordane, Norway",
@@ -42,17 +42,17 @@
       "previewAmenities": ["Wifi", "Heating"],
       "cancelPolicy": "CANCEL_MODERATE",
       "price": {
-        "night": 544,
+        "night": 644,
         "currency": "USD",
-        "total": 2039,
+        "total": 2139,
         "priceItems": [
           {
-            "title": "349 x 5 nights",
-            "amount": 1744
+            "title": "644 x 4 nights",
+            "amount": 1944
           },
           {
             "title": "Service fee",
-            "amount": 295
+            "amount": 495
           }
         ]
       }
@@ -69,8 +69,8 @@
       "position": 1,
       "name": "Luxury suite overlooking the Wadden Sea, Harlingen",
       "bathrooms": 1,
-      "bedrooms": 1,
-      "beds": 1,
+      "bedrooms": 3,
+      "beds": 2,
       "city": "Harlingen",
       "country": "Netherlands",
       "neighborhood": "Châtelet - Les Halles - Beaubourg",
@@ -87,9 +87,9 @@
       "rareFind": true,
       "lat": 48.86339,
       "lng": 2.35232,
-      "persons": 1,
-      "reviewsCount": 140,
-      "rating": 4.99,
+      "persons": 3,
+      "reviewsCount": 82,
+      "rating": 4.56,
       "type": "Entire rental unit",
       "userId": 271527319,
       "address": "Gaular, Sogn og Fjordane, Norway",
@@ -144,9 +144,9 @@
       "rareFind": true,
       "lat": 48.86339,
       "lng": 2.35232,
-      "persons": 4,
+      "persons": 3,
       "reviewsCount": 140,
-      "rating": 4.99,
+      "rating": 3.99,
       "type": "Entire rental unit",
       "userId": 271527319,
       "address": "Gaular, Sogn og Fjordane, Norway",
